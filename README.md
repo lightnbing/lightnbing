@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on BUAA.
+- 🔭 I’m currently studying on BUAA.
 - 🌱 I’m currently learning Qt.
 - Thanks a lot.
   
